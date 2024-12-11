@@ -262,7 +262,6 @@ body {
    display: block;
    margin: 120px auto 0; /* Центрування горизонтально */
    width: 250px; 
-   height: auto; 
    border-radius: 10px;
    transition: transform 0.3s ease;
    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
